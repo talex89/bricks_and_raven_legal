@@ -49,12 +49,10 @@
   .owl-carousel .owl-item img {
     display: block;
     width: 100%; }
-  .owl-carousel .owl-nav.disabled,
-  .owl-carousel .owl-dots.disabled {
+  .owl-carousel .owl-nav.disabled, {
     display: none; }
   .owl-carousel .owl-nav .owl-prev,
-  .owl-carousel .owl-nav .owl-next,
-  .owl-carousel .owl-dot {
+  .owl-carousel .owl-nav .owl-next, {
     cursor: pointer;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -62,8 +60,7 @@
     -ms-user-select: none;
     user-select: none; }
   .owl-carousel .owl-nav button.owl-prev,
-  .owl-carousel .owl-nav button.owl-next,
-  .owl-carousel button.owl-dot {
+  .owl-carousel .owl-nav button.owl-next, {
     background: none;
     color: inherit;
     border: none;

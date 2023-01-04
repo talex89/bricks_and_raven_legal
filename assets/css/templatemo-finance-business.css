@@ -353,15 +353,6 @@ header .navbar {
   max-width: none;
 }
 
-*,
-*:before,
-*:after {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 .Grid1k {
   padding: 0 15px;
   max-width: 1200px;
